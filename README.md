@@ -10,8 +10,7 @@ Create random quote app, that shows a random quote when ever the user loads the 
 do one specific thing only, to make the code more readable and
 easier to maintain / extend._
 
-2.  Add the needed JavaScript to load a new quote, when the button
-    below the quote is used.
+2.  Add a Random Quote button beneath the quote element. When the button is clicked, a new quote should be generated.
 
 3.  **Optional:** Style to your pleasing & feel free to load/use bootstrap via CDN.
 
